@@ -1,0 +1,22 @@
+- get put.io list of movies 
+- use the list to get metadata from IMDB 
+- interface for searching
+    - year is a tag
+    - decade is a tag 
+    - actors are tags 
+    - you can start typing "Chris Rock" to sort the list by movies he's in 
+- recommendations 
+    - two things to play right now 
+        - recommend two movies based on 
+            - time of day 
+            - time since last watched 
+            - other recently watched 
+            - do we have historical data?
+                - put.io API
+    - more movies based on this list 
+        - "Suggest more" like spotify 
+        - also works with whole library 
+
+There's two main things here, the back end and the interface 
+
+
